@@ -7,7 +7,8 @@ mypy ./src
 ## Run project
 
 ```bash
-python3 src/main.py
+python3 src/main-1-tree.py
+python3 src/main-2-ensamble.py
 ```
 
 ## Generate report

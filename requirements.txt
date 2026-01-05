@@ -1,5 +1,7 @@
 # dev dependecy
 mypy
 
+matplotlib
 numpy
+pandas
 scikit-learn
