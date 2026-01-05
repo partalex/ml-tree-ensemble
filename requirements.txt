@@ -1,0 +1,5 @@
+# dev dependecy
+mypy
+
+numpy
+scikit-learn
